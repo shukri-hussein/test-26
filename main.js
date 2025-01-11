@@ -1,4 +1,4 @@
-                                        // Quiz Time
+//                                         Quiz Time
 // ans 1
 
 // const waa variable hada halmar qiima u astayso aan dib wax ugu badali karin  
